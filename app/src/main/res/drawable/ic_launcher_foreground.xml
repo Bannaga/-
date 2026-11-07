@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Eight-point star (two overlapping squares) with a centre dot -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M37,37 L71,37 L71,71 L37,71 Z"
+        android:strokeColor="@color/icon_gold"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="miter"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,30 L78,54 L54,78 L30,54 Z"
+        android:strokeColor="@color/icon_gold"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="miter"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,47 A7,7 0 1,1 53.99,47 Z"
+        android:fillColor="@color/icon_gold" />
+</vector>
